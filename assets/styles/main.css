@@ -6,7 +6,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   font-family: 'poppins';
-  font-size: 16px;
+  font-size: 15.5px;
 }
 
 p {
@@ -273,7 +273,6 @@ body .shape img {
 .about .right-about p {
   margin: 14px auto;
   color: #002200;
-  font-size: 0.8rem;
   line-height: 1.8;
 }
 
@@ -373,7 +372,6 @@ body .shape img {
 .card .right-about p {
   margin: 8px auto;
   color: #002200;
-  font-size: 0.8rem;
   line-height: 1.8;
 }
 
@@ -550,7 +548,6 @@ body .shape img {
 .contact-section .contact-services .right-services p {
   margin: 8px auto;
   color: #002200;
-  font-size: 0.8rem;
   line-height: 1.8;
 }
 
@@ -606,7 +603,6 @@ body .shape img {
 .contact-section .contact-services .right-about p {
   margin: 14px auto;
   color: #002200;
-  font-size: 0.8rem;
   line-height: 1.8;
 }
 
