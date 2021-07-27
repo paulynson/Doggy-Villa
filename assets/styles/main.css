@@ -17,6 +17,10 @@ h2 {
   font-size: 2rem !important;
 }
 
+button {
+  font-weight: 500 !important;
+}
+
 body {
   position: relative;
 }
@@ -554,8 +558,9 @@ body .shape img {
 .contact-section .contact-services .right-services button {
   background-color: #f391ec;
   color: #002200;
-  padding: 8px 30px;
+  padding: 12px 30px;
   outline: none;
+  font-weight: 500;
   border: 0;
   margin: 1rem auto;
   border-radius: 50px;
