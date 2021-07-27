@@ -13,6 +13,10 @@ p {
   font-size: 1rem !important;
 }
 
+h2 {
+  font-size: 2rem !important;
+}
+
 body {
   position: relative;
 }
@@ -179,7 +183,6 @@ body .shape img {
 
 .header .hero h2 {
   color: #ffffff;
-  font-size: 2rem;
   font-weight: normal;
   word-spacing: 0.5rem;
 }
@@ -265,7 +268,6 @@ body .shape img {
 
 .about .right-about h2 {
   color: #002200;
-  font-size: 2rem;
   font-weight: normal;
   word-spacing: 0.5rem;
 }
@@ -364,7 +366,6 @@ body .shape img {
 
 .card .right-about h2 {
   color: #002200;
-  font-size: 2rem;
   font-weight: normal;
   word-spacing: 0.5rem;
 }
@@ -540,7 +541,6 @@ body .shape img {
 
 .contact-section .contact-services .right-services h2 {
   color: #002200;
-  font-size: 2rem;
   font-weight: normal;
   word-spacing: 0.5rem;
 }
@@ -557,6 +557,7 @@ body .shape img {
   padding: 8px 30px;
   outline: none;
   border: 0;
+  margin: 1rem auto;
   border-radius: 50px;
   cursor: pointer;
 }
@@ -595,7 +596,6 @@ body .shape img {
 
 .contact-section .contact-services .right-about h2 {
   color: #002200;
-  font-size: 2rem;
   font-weight: normal;
   word-spacing: 0.5rem;
 }

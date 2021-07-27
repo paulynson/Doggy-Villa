@@ -27,6 +27,9 @@ $offwhite: #fbfbfb;
 p {
   font-size: 1rem !important;
 }
+h2 {
+  font-size: 2rem !important;
+}
 
 body {
   position: relative;
@@ -173,7 +176,6 @@ body {
 
     h2 {
       color: $white;
-      font-size: 2rem;
       font-weight: normal;
       word-spacing: 0.5rem;
     }
@@ -277,7 +279,6 @@ body {
 
     h2 {
       color: $dark;
-      font-size: 2rem;
       font-weight: normal;
       word-spacing: 0.5rem;
     }
@@ -354,7 +355,6 @@ body {
 
     h2 {
       color: $dark;
-      font-size: 2rem;
       font-weight: normal;
       word-spacing: 0.5rem;
     }
@@ -496,7 +496,6 @@ body {
 
       h2 {
         color: $dark;
-        font-size: 2rem;
         font-weight: normal;
         word-spacing: 0.5rem;
       }
@@ -513,6 +512,7 @@ body {
         padding: 8px 30px;
         outline: none;
         border: 0;
+        margin: 1rem auto;
         border-radius: 50px;
         cursor: pointer;
 
@@ -540,7 +540,6 @@ body {
 
       h2 {
         color: $dark;
-        font-size: 2rem;
         font-weight: normal;
         word-spacing: 0.5rem;
       }
