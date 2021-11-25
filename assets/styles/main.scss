@@ -206,8 +206,8 @@ body {
       font-weight: bolder;
 
       &:hover {
-        color: $darkbg;
-        background-color: $dark;
+        color: $dark;
+        background-color: $lightbg;
       }
     }
   }
