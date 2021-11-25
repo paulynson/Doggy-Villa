@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 *,
 *::before,
 *::after {
@@ -5,7 +6,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: 'poppins';
+  font-family: 'PT Sans', sans-serif;
   font-size: 15.5px;
 }
 
@@ -142,7 +143,6 @@ body .shape img {
   word-spacing: 0.2rem;
   letter-spacing: 0.06rem;
   color: #ffffff;
-  font-family: 'montserrat';
 }
 
 .header .nav .logo .logo-img {
@@ -189,6 +189,7 @@ body .shape img {
   color: #ffffff;
   font-weight: normal;
   word-spacing: 0.5rem;
+  text-transform: uppercase;
 }
 
 .header .hero p {
@@ -211,6 +212,7 @@ body .shape img {
 
 .header .hero button:hover {
   color: #da12cc;
+  background-color: #002200;
 }
 
 .present {
@@ -760,7 +762,6 @@ body .shape img {
   .close p {
     color: #002200;
     font-size: 1.5rem;
-    font-family: 'poppins';
     -ms-flex-item-align: center;
         -ms-grid-row-align: center;
         align-self: center;

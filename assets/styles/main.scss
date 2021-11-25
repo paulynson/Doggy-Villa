@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'poppins';
+  font-family: 'PT Sans', sans-serif;
   font-size: 15.5px;
 }
 
@@ -37,6 +39,7 @@ button {
 
 body {
   position: relative;
+  
 
   .shape {
     position: absolute;
@@ -137,7 +140,7 @@ body {
         word-spacing: 0.2rem;
         letter-spacing: 0.06rem;
         color: $white;
-        font-family: 'montserrat';
+        // font-family: 'montserrat';
       }
 
       .logo-img {
@@ -182,6 +185,7 @@ body {
       color: $white;
       font-weight: normal;
       word-spacing: 0.5rem;
+      text-transform: uppercase;
     }
 
     p {
@@ -203,6 +207,7 @@ body {
 
       &:hover {
         color: $darkbg;
+        background-color: $dark;
       }
     }
   }
@@ -686,7 +691,7 @@ body {
       color: $dark;
       font-size: 1.5rem;
       // font-weight: bolder;
-      font-family: 'poppins';
+      // font-family: 'poppins';
       align-self: center;
 
       &:hover {
